@@ -1,0 +1,6 @@
+Pattern mathed at index 0 to 9. With good suffix 13 and bad character 6 counts
+Pattern mathed at index 48 to 57. With good suffix 13 and bad character 6 counts
+Pattern mathed at index 73 to 82. With good suffix 13 and bad character 6 counts
+Pattern mathed at index 93 to 102. With good suffix 13 and bad character 6 counts
+Pattern mathed at index 168 to 177. With good suffix 13 and bad character 6 counts
+Pattern mathed at index 183 to 192. With good suffix 13 and bad character 6 counts
